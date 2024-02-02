@@ -1,0 +1,6 @@
+[submodule "tools/Ashare"]
+	path = tools/Ashare
+	url = https://github.com/mpquant/Ashare.git
+[submodule "tools/IP_POOL"]
+	path = tools/IP_POOL
+	url = git@github.com:xiaosimao/IP_POOL.git
